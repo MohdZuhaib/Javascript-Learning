@@ -4,3 +4,4 @@ fabonacci series--Done!
 find out armstrong number--Done!
 Print different star pattern
 print 10 nos w/o loop--Done!
+New chan
