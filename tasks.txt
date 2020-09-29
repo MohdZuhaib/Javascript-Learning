@@ -1,0 +1,6 @@
+table of x----Done!
+find out odd even--Done!
+fabonacci series--Done!
+find out armstrong number--Done!
+Print different star pattern
+print 10 nos w/o loop--Done!
